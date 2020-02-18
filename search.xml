@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>【置顶公告】</title>
+    <url>/2020/02/18/Announcement/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>Announcement</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>图片の墙（20/02/17更新）</title>
     <url>/2020/02/17/Photograph/</url>
     <content><![CDATA[<hr>
@@ -30,8 +38,8 @@
       </tags>
   </entry>
   <entry>
-    <title>【置顶公告】Happy New Year!</title>
-    <url>/2020/01/01/Announcement/</url>
+    <title>Happy New Year!</title>
+    <url>/2020/01/01/Happy%20new%20year/</url>
     <content><![CDATA[<p><img src="https://i.loli.net/2020/01/11/KlWRsFm5fYG4oxp.jpg" alt="Hello2020.jpg"></p>
 ]]></content>
       <tags>
