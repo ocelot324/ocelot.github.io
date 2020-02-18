@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>【置顶公告】</title>
+    <title>【置顶公告】博客现已支持评论</title>
     <url>/2020/02/18/Announcement/</url>
     <content><![CDATA[]]></content>
       <tags>
@@ -162,7 +162,7 @@
       </tags>
   </entry>
   <entry>
-    <title>博客搭建记</title>
+    <title>博客搭建</title>
     <url>/2019/03/23/Blog%20Building/</url>
     <content><![CDATA[<p>话说 搭一个博客 着实挺辛苦的…… </p>
 <a id="more"></a>
@@ -184,7 +184,7 @@
 <p><img src="https://i.loli.net/2019/08/31/VZHOqf6lpWoBYUh.png" alt="Blog Building _2_.png"></p>
 <p>随便挑了一个主题 <a href="https://github.com/dongyuanxin/theme-bmw" target="_blank" rel="noopener">BMW</a> ，然后把第一篇文章发了上去：</p>
 <p><img src="https://i.loli.net/2019/08/31/zygBdPiWe5rEuNb.png" alt="Blog Building _1_.png"></p>
-<p>PS：现在换成了 <a href="https://github.com/theme-next/hexo-theme-next" target="_blank" rel="noopener">NexT.Mist</a> ，有没有更好看了呢~</p>
+<p>PS：现在换成了 <a href="https://github.com/theme-next/hexo-theme-next" target="_blank" rel="noopener">NexT.Gemini</a> ，有没有更好看了呢~</p>
 <p>希望大家多多支持~</p>
 ]]></content>
       <tags>
