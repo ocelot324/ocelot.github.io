@@ -1,0 +1,42 @@
+---
+title: 关于本站
+date: 2019-03-23 12:02:53
+---
+
+#### 一枚学生党
+
+一名半途而废的OIer，现在高二……
+
+只有周末上线，[**Github**](https://github.com/ocelot324) 和 **[微博](https://weibo.com/ocelot324)** 见侧栏头像下方。
+
+
+
+#### 博客内容
+
+##### 轨交
+
+目前主要在 [**地铁族成都区**](http://www.ditiezu.com/forum-53-1.html) ID： [Ocelot324](http://www.ditiezu.com/space-uid-645326.html)
+
+##### 科技
+
+转发一些文章，偶尔也写点东西
+
+##### 生活
+
+记录生活点滴……
+
+
+
+#### 关于本站
+
+主域名：ocelot.top
+
+副域名：ocelot324.github.io
+
+本站采用 **Hexo**，主题 **Next** ，详见页面底部说明。
+
+本站图片全部使用 [**sm.ms**](https://sm.ms/) 图床。
+
+建站日期：2019年3月23日
+
+本博客文章除特别声明, 均采用 **CC BY-NC-SA 4.0** 许可协议. 转载请注明出处！
