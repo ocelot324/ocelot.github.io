@@ -4,9 +4,9 @@
     <title>【置顶公告】博客现已支持评论</title>
     <url>/2020/02/18/Announcement/</url>
     <content><![CDATA[]]></content>
-      <tags>
-        <tag>Announcement</tag>
-      </tags>
+      <categories>
+        <category>公告</category>
+      </categories>
   </entry>
   <entry>
     <title>图片の墙（20/02/17更新）</title>
@@ -35,18 +35,18 @@
 <p><img src="https://i.loli.net/2019/08/30/aciDNfk8BGOSdhM.jpg" alt="IMG_20190728_185213.jpg"></p>
 <hr>
 ]]></content>
-      <tags>
-        <tag>Photograph</tag>
-      </tags>
+      <categories>
+        <category>摄影</category>
+      </categories>
   </entry>
   <entry>
     <title>Happy New Year!</title>
     <url>/2020/01/01/Happy%20new%20year/</url>
     <content><![CDATA[<p><img src="https://i.loli.net/2020/01/11/KlWRsFm5fYG4oxp.jpg" alt="Hello2020.jpg"></p>
 ]]></content>
-      <tags>
-        <tag>Announcement</tag>
-      </tags>
+      <categories>
+        <category>公告</category>
+      </categories>
   </entry>
   <entry>
     <title>ColorOS7 For Realme X 尝鲜体验感受</title>
@@ -127,8 +127,12 @@
 <p>只改表面（或者说界面），功能更新很少，这样的更新又有什么意义呐，果然 OPPO/Realme 的系统还是差点火候……</p>
 <p>就这样吧，欢迎到知乎留言交流~</p>
 ]]></content>
+      <categories>
+        <category>科技</category>
+      </categories>
       <tags>
-        <tag>Tech</tag>
+        <tag>手机</tag>
+        <tag>安卓</tag>
       </tags>
   </entry>
   <entry>
@@ -144,8 +148,12 @@
 <p><img src="https://i.loli.net/2019/08/31/NpILWao4m39OKkx.jpg" alt="NOIP2018 _4_.jpg"></p>
 <p><img src="https://i.loli.net/2019/08/31/lfuBG43J1Dbc2Tk.jpg" alt="NOIP2018 _2_.jpg"></p>
 ]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
       <tags>
-        <tag>Life</tag>
+        <tag>NOIP</tag>
+        <tag>信竞</tag>
       </tags>
   </entry>
   <entry>
@@ -159,8 +167,13 @@
 <p>地铁族上的帖子 <a href="http://www.ditiezu.com/forum.php?mod=viewthread&tid=601201&page=1#pid9806730" target="_blank" rel="noopener">戳这里</a> 。</p>
 <p>高清大图直接<strong>右键另存为</strong>即可。</p>
 ]]></content>
+      <categories>
+        <category>轨交</category>
+      </categories>
       <tags>
-        <tag>Metro</tag>
+        <tag>地铁</tag>
+        <tag>线路图</tag>
+        <tag>成灌线</tag>
       </tags>
   </entry>
   <entry>
@@ -189,8 +202,12 @@
 <p>PS：现在换成了 <a href="https://github.com/theme-next/hexo-theme-next" target="_blank" rel="noopener">NexT.Gemini</a> ，有没有更好看了呢~</p>
 <p>希望大家多多支持~</p>
 ]]></content>
+      <categories>
+        <category>科技</category>
+      </categories>
       <tags>
-        <tag>Tech</tag>
+        <tag>博客</tag>
+        <tag>Hexo</tag>
       </tags>
   </entry>
 </search>
