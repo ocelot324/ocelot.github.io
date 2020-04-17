@@ -3,7 +3,8 @@
   <entry>
     <title>【置顶公告】博客现已支持评论</title>
     <url>/2020/02/18/Announcement/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<p>填写昵称及邮箱即可评论，如果收到回复（应该）会有邮件通知。因为邮件通知功能不完善，可能无法及时回复留言……</p>
+]]></content>
       <categories>
         <category>公告</category>
       </categories>
@@ -125,7 +126,13 @@
 </ul>
 <p>怎么说呢，这次 ColorOS 7，没有什么惊艳的功能出现，感觉就是小打小闹的更新。又折腾了一遍UI和设计，改一改动画，补了一点刚需功能。而且有些还是以前就翻来覆去改了好几次（比如控制中心，充电动画），现在又拿出来改。</p>
 <p>只改表面（或者说界面），功能更新很少，这样的更新又有什么意义呐，果然 OPPO/Realme 的系统还是差点火候……</p>
-<p>就这样吧，欢迎到知乎留言交流~</p>
+<p>就这样吧，欢迎到<a href="https://zhuanlan.zhihu.com/p/99846007" target="_blank" rel="noopener">知乎</a>留言交流~</p>
+<ul>
+<li><strong>2020/04/09补充：</strong></li>
+</ul>
+<p>最近一直没有时间做补充，正式版已经更新一段时间了，提供了两套主题（只有图标不同），<strong>默认主题</strong>为下图，上文中主题变为备选“<strong>简约至美</strong>”主题，可在主题商店中切换。</p>
+<p><img src="https://i.loli.net/2020/04/17/kfQqBKxt4TveYGR.jpg" alt="ColorOS7-20200409补充.jpg"></p>
+<p>另外，现在的系统版本标识已经变为“<strong>realme ui 1.0</strong>”，不过点进“版本信息”依然可以看到是基于ColorOS 7。</p>
 ]]></content>
       <categories>
         <category>科技</category>
