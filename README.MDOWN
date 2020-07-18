@@ -2,14 +2,25 @@
 title: 关于本站
 date: 2019-03-23 12:02:53
 ---
+Ocelot324的个人博客
 
-#### Ocelot324的博客
+#### 关于我
 
-一名半途而废的OIer，现在高二……
+一名半途而废的OIer……
+
+已经高三，博客高考完之前基本不会维护了。
+
+[**Github**](https://github.com/ocelot324) 和 **[微博](https://weibo.com/ocelot324)** 见侧栏头像下方。
+
+[**地铁族成都区**](http://www.ditiezu.com/forum-53-1.html) ID： [Ocelot324](http://www.ditiezu.com/space-uid-645326.html)
 
 
 
 #### 关于本站
+
+生活|科技|轨交|航天|And more……
+
+站点托管于 [**Github Pages**](https://github.com/ocelot324/ocelot324.github.io)（短时间内不会迁移至国内服务器，So忍受一下缓慢的加载速度吧，反正没人看233）
 
 主域名：ocelot.top
 
@@ -22,5 +33,3 @@ date: 2019-03-23 12:02:53
 评论系统来自 [**Valine**](https://valine.js.org/) ，数据储存使用 [**Leancloud**](https://leancloud.cn/) 。
 
 建站日期：2019年3月23日
-
-本博客文章除特别声明, 均采用 **CC BY-NC-SA 4.0** 许可协议. 转载请注明出处！
